@@ -1,7 +1,7 @@
 #include <stdio.h>
-/*
- *check this
- *tes
+/**
+ *This is main function
+ *Return always will be zero
  */
 int main(void)
 {
