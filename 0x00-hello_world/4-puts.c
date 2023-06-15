@@ -1,16 +1,11 @@
 #include <stdio.h>
 /**
- * The main function of the program.
- * @return The exit from the program.
+ *main a program that print push
+ *Description :'the programs's description'
+ *Return: 0 (success)
  */
 int main(void)
 {
-	/**
-	 *do not know what to say
-	 * */
 	puts("\"Programming is like building a multilingual puzzle");
-	/**
-	 * it is a mess
-	 */
 	return (0);
 }
