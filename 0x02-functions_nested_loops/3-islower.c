@@ -2,6 +2,7 @@
 
 /**
  * _islower - print the alphabet
+ * @c : caracter
  * Return: 1 or 0
  */
 
