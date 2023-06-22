@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ *positive_or_negative - test number
+ *@i: int to be added
+ *Return: no return
+ */
 
 void positive_or_negative(int i)
 {
